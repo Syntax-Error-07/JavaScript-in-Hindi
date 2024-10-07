@@ -1,0 +1,27 @@
+
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    width: 225px;
+    margin: auto;
+    font-size: 60px;
+    font-family:cursive;
+    cursor: pointer;
+}
+#MainContainer{
+    font-family:cursive;
+    text-align: center;
+}
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+}
+#restartbtn{
+    font-family:cursive;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(243, 79, 79);
+}
+
+

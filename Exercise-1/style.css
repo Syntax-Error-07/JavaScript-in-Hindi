@@ -1,0 +1,24 @@
+#counter{
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#buttonContainer{
+    text-align: center;
+}
+.buttons{
+    background-color: rgb(36, 36, 253);
+    font-size: 20px;
+    margin:10px;
+    padding: 10px;
+    border-radius: 50%;
+}
+#Reset{
+    background-color: red;
+}
+.buttons:hover{
+    background-color: aqua;
+}
+#Reset:hover{
+    background-color: aqua;
+}
